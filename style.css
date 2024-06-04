@@ -1,0 +1,20 @@
+body {
+    font-family: Helvetica, sans-serif;
+    align-items: center;
+    font-size: 1em;
+    background-color: #252525;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.2em;
+}
+
+.warn {
+    color: #252525;
+}
